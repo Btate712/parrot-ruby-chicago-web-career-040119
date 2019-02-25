@@ -1,4 +1,4 @@
-def parrot(word = "Squak!")
+def parrot(word = "Squawk!")
   puts word
   word
 end
